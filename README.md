@@ -1,4 +1,4 @@
 # DEMO_OP
 This is my first Git Repository.
 <br>
-Author - ARJIT JOSHI
+Author - ARJIT (demo)
